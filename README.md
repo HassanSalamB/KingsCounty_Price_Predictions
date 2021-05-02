@@ -18,7 +18,7 @@ ___
 Our stakeholder, Mr. Charles C. is interested in investing in properties for the purpose of selling them at higher profits. However, he is not sure whether he should buy new or old houses. Or if he should consider renovating the building before he sells them. Or if he should wait for some years before selling them, perhaps the prices may go higher in near future. In this analysis, we have come up with some hypothesis to assist Mr Charles. They are mentioned below:
 
 1. It would be in his best interest to renovate properties which have never been renevoated.
-2. We will divide the houses built in 3 categories: a. Older than 1950s, b. Between 1951 to 1999, and c. Above 2000s
+2. We will predict the prices of the houses based on their features for our stakeholder
 
 
 ![Kingscounty](https://www.kingcounty.gov/~/media/depts/assessor/images/2015/assessors_social.ashx?la=en)
@@ -39,9 +39,3 @@ source .venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
-
-### Remarks
-Data or Models folder content should not be pushed to github.
-# KingsCounty_Price_Predictions
-# KingsCounty_Price_Predictions
-# KingsCounty_Price_Predictions
